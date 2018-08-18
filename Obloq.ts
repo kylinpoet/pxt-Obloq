@@ -1000,7 +1000,7 @@ namespace Obloq {
         if (!serialinit) { 
             Obloq_serialInit()
         }
-        obloqWriteString("|4|1|3|"+OBLOQ_IOT_TOPIC[0]+"|"+mess+"|\r")
+        obloqWriteString("|4|1|3|"+OBLOQ_IOT_TOPIC[0]+"|"+String.fromCharCode(25105)+"|\r")
     }
 
     /**
