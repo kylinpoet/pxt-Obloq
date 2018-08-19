@@ -18,8 +18,8 @@ let MQTT_DEFAULT = true
 
 //DFRobot easy iot
 const EASY_IOT_SERVER_CHINA = "iot.dfrobot.com.cn"
-const EASY_IOT_SERVER_GLOBAL = "test.mosquitto.org"
-const EASY_IOT_PORT = 1883
+const EASY_IOT_SERVER_GLOBAL = "m13.cloudmqtt.com"
+const EASY_IOT_PORT = 11529
 //other iot
 const USER_IOT_SERVER = "-----------"
 const USER_IOT_PORT = 0

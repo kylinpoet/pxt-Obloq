@@ -1,7 +1,7 @@
 {
     "name": "Obloq-kylin",
     "version": "0.0.1",
-    "description": "Add Wi-Fi connectivity to micro:bit and start your IoT project in 5 minutes!-kylin2",
+    "description": "Add Wi-Fi connectivity to micro:bit and start your IoT project in 5 minutes!-kylin23",
     "license": "MIT",
     "dependencies": {
         "core": "*",
