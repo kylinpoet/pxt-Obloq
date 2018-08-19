@@ -1001,7 +1001,7 @@ namespace Obloq {
             Obloq_serialInit()
         }
         obloqWriteString("|4|1|3|"+OBLOQ_IOT_TOPIC[0]+"|"+mess+"|\r")
-        //obloqWriteString("|4|1|3|"+OBLOQ_IOT_TOPIC[0]+"|"+"\x32"+"|\r")
+        obloqWriteString("|4|1|3|"+OBLOQ_IOT_TOPIC[0]+"|"+"\x32"+"|\r")
     }
 
     /**
